@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Cliente
+comment1.params=codigo\ nombre
+comment1.target=Cliente(int,\ java.lang.String)
+numComments=2

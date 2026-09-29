@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Producto
+comment1.params=codigo\ descripcion\ precioLista\ stock
+comment1.target=Producto(int,\ java.lang.String,\ double,\ int)
+comment2.params=
+comment2.target=int\ getCodigo()
+comment3.params=
+comment3.target=java.lang.String\ getDescripcion()
+comment4.params=
+comment4.target=double\ getPrecioLista()
+comment5.params=
+comment5.target=int\ getStock()
+numComments=6

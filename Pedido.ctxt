@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Pedido
+comment1.params=codigo\ cli
+comment1.target=Pedido(int,\ Cliente)
+comment2.params=
+comment2.target=int\ getNumero()
+numComments=3

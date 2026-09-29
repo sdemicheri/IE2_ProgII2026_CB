@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DetallePedido
+comment1.params=producto\ cantidad
+comment1.target=DetallePedido(Producto,\ int)
+comment2.params=
+comment2.target=Producto\ getProducto()
+comment3.params=
+comment3.target=int\ getCantidad()
+numComments=4

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=GestorPedidos
+comment1.params=
+comment1.target=GestorPedidos()
+comment2.params=
+comment2.target=void\ cargarDatosInciales()
+comment3.params=
+comment3.target=java.util.ArrayList\ getProductos()
+comment4.params=
+comment4.target=java.util.ArrayList\ getClientes()
+comment5.params=
+comment5.target=java.util.ArrayList\ getPedidos()
+comment6.params=numero
+comment6.target=Pedido\ obtenerPedido(int)
+numComments=7
